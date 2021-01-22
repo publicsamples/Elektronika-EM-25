@@ -7,7 +7,9 @@ A Russian string synth from the mid-80s.  Has string, brass and organ sounds. Th
 -   **Approx Size:** 2GB
 -   **Info:** [encyclotronic.com](https://encyclotronic.com/synthesizers/soviet-synthesizers/electronika/em-25-r1275/)
 
-  **Audio:** https://www.dropbox.com/sh/1m0yqvru5782mtn/AAB1ZsQ1bvMbvk6ztOfv57y-a?dl=0
+  **This collection requires you to download the audio seperately**
+
+[Download Audio from Dropbox](https://www.dropbox.com/sh/1m0yqvru5782mtn/AAB1ZsQ1bvMbvk6ztOfv57y-a?dl=0)
 
 # Loading
 
@@ -32,8 +34,10 @@ A Russian string synth from the mid-80s.  Has string, brass and organ sounds. Th
 3. Open the folder with the .nki files
 4. Once the batch resave process has completed open a sample using the file browser
 
-# Disks
+# Support this project
+
+[Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![enter image description here](https://github.com/publicsamples/Public-Samples/blob/master/disk-big_0.png?raw=true)
+![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
 ](https://gum.co/modularsamples-drives)
