@@ -6,6 +6,7 @@ A Russian string synth from the mid-80s.  Has string, brass and organ sounds. Th
 -   **Formats:** EXS24, Kontakt
 -   **Approx Size:** 2GB
 -   **Info:** [encyclotronic.com](https://encyclotronic.com/synthesizers/soviet-synthesizers/electronika/em-25-r1275/)
+- [Web Audio Demo](https://www.modularsamples.com/Demos/demos/em25.html)
 
   **This collection requires you to download the audio seperately**
 
