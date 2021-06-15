@@ -42,5 +42,6 @@ This collection includes an elaborate set of "smart control" panels for Logic, a
 [Report issues](/issues) - [Buy a Sample Library](https://gumroad.com/modularsamples) - [Become a Patreon](https://www.patreon.com/modularsamples) - [Add new patches & Formats](/pulls)
 
 [
-![Sample library disks](https://github.com/publicsamples/Public-Samples/raw/master/images/drives2.jpg?raw=true)
-](https://gum.co/modularsamples-drives)
+![Sample library disks](https://www.modularsamples.com/samples/product/excessive-hits/excessive-small.jpg)
+](https://gumroad.com/l/UvfQy)
+
