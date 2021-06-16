@@ -1,6 +1,6 @@
 <UVI4>
-    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1.9654001" Pan="0" DisplayName="EM25" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="/Users/richardtaylor/Music/Audio Music Apps/Sampler Instruments/Elektronika-EM-25/Falcon/EM25.uvip" LoopProgram="0" Streaming="1">
-        <Properties BackgroundImagePath="./../../../../../Downloads/vv.jpg"/>
+    <Program Name="Program" Bypass="0" BypassInsertFX="0" Gain="1.9654001" Pan="0" DisplayName="EM25" TransposeOctaves="0" TransposeSemiTones="0" OutputName="" Polyphony="16" NotePolyphony="0" ProgramPath="$Music/Audio Music Apps/Sampler Instruments/Elektronika-EM-25/Falcon/EM25.uvip" LoopProgram="0" Streaming="1">
+        <Properties BackgroundImagePath="./em.jpg"/>
         <ControlSignalSources>
             <ConstantModulation Name="Macro 1" DisplayName="Brass 16" Bypass="0" Bipolar="0" Style="0" Value="0">
                 <Properties customPosition="1" showValue="0" x="25" y="345"/>
